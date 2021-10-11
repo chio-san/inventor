@@ -1,3 +1,4 @@
 Mouse
 Keyboard
 Laptop
+Клавиатура
