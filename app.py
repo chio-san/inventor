@@ -15,4 +15,7 @@ def add():
     f = open('goods.txt', 'a+', encoding='utf-8')
     f.write(good + "\n")
     f.close()
-    return "Инвентарь пополнен"
+    return """
+    <h1>Инвентарь пополнен</h1>
+    <a href='/'>Home</a>
+    """

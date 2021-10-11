@@ -3,3 +3,5 @@ Keyboard
 Server
 Snowman
 Компьютер
+Mouse
+Case
